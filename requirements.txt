@@ -1,0 +1,13 @@
+# Translator project dependency libraries
+# Tools for string extraction and translation injection
+
+# Console color output support
+colorama>=0.4.6
+
+# Note: The following are standard libraries and do not need to be installed
+# pathlib - File path operations
+# re - Regular expressions
+# csv - CSV file handling
+# json - JSON file handling
+# argparse - Command-line argument parsing
+# shutil - File operation tools
